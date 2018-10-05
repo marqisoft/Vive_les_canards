@@ -2,7 +2,7 @@
 
 Je collectionne les canards par milliers.
 
-## Description
+## Description modifiée
 
 Si toi aussi tu aimes les canards, ce projet est pour toi. 
 
