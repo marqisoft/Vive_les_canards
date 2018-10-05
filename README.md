@@ -13,5 +13,6 @@ Coin coin.
 J'aime vraiment beaucoup les canards. Encore plus que la derniere fois.
 
 ## Une sous-section branchee
+_collaboration spéciale_
 
-Les canards aiment voler sur les branches.
+Les canards aiment voler sur les branches. Les branches aiment supporter les canards goulus.
